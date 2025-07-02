@@ -42,8 +42,8 @@
 <h3 align="center"> GITHUB STATS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h3>
 <div align="center">
   <a href="https://github.com/Cere29">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hijal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hijal&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cere29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cere29&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
 
