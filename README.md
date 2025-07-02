@@ -12,15 +12,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I'm currently working on full-stack projects combining frontend and backend technologies
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I'm currently learning full-stack development fundamentals, version control, and modern frameworks
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I'm looking to collaborate on educational coding projects and code reviews
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 I'm looking to collaborate on educational coding projects and code reviews
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun fact: Like sunflowers track the sun, I track the latest tech trends 🌻
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
