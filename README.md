@@ -28,7 +28,7 @@
 <div align="center">
   <h3> CONNECT WITH ME <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="center">
-  <a href="https://github.com/Cere29(https://github.com/Cere29)"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://github.com/Cere29"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/cristian-cerezo-sánchez-85996823a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
   <a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
